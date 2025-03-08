@@ -1,6 +1,6 @@
 # [Project/Lab Title]
 
-![Optional: ![image](https://gist.github.com/user-attachments/assets/bd1c7328-d291-47d9-b566-8ff29b22e22f)(#)
+![Optional: [image](https://gist.github.com/user-attachments/assets/bd1c7328-d291-47d9-b566-8ff29b22e22f)(#)
 ![image](https://gist.github.com/user-attachments/assets/bd1c7328-d291-47d9-b566-8ff29b22e22f)
 ## Table of Contents
 1. [Introduction](#introduction)
